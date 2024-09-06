@@ -1,7 +1,7 @@
 ![logo](https://github.com/mohit0520/mohit0520/blob/main/Screenshot%20(279).png)
 <h1 align="center">Hi 👋, I'm Mohit Soni</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit0520&label=Profile%20views&color=0e75b6&style=flat" alt="mohit0520" /> </p>
-<img align="right" alt="coding" width="300" src="https://th.bing.com/th/id/R.c9ed0a64efdf935c7ded2897dca1592e?rik=LQjJ%2bOdFQdS14Q&riu=http%3a%2f%2fcliparts.co%2fcliparts%2f8c6%2f5B5%2f8c65B5bzi.jpg&ehk=plNlbK5UGp%2beDgCSO1MO1OGLnG%2fJs4OVmr2r2dUIlkY%3d&risl=&pid=ImgRaw&r=0">
+<img align="right" alt="coding" width="300" src="https://metapreponline.com/wp-content/uploads/2022/07/Thinking-and-Learning.png">
 <h3 align="left">Connect with me:</h3>
 
 </p>
